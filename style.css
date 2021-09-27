@@ -219,6 +219,7 @@ body {
     border-top-right-radius: 140px;
     border-bottom-left-radius: 80px;
     border-bottom-right-radius: 160px;
+    border: 1px solid black;
 }
 
 .ruka1 {
